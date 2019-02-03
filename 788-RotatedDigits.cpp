@@ -9,6 +9,7 @@ public:
         }
         return result;
     }
+
     bool isGoodDigit(int n) {
         int bit;
         bool diff = false;
